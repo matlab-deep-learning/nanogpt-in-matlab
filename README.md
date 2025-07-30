@@ -16,7 +16,7 @@ Running the demo on a GPU also requires [Parallel Computing Toolbox™](https://
 To run this demo with a local installation of MATLAB, first clone the repository.
 1. In the system command prompt, run:
 ```
-git clone https://insidelabs-git.mathworks.com/uk-data-analysis/nanogpt-in-matlab.git
+git clone https://github.com/matlab-deep-learning/nanogpt-in-matlab.git
 ```
 2. Open MATLAB and navigate to the directory where you cloned the repository.
 3. Add the directory to the MATLAB path.
